@@ -1,0 +1,7 @@
+*.env
+.env.*
+config.ini
+credentials.json
+*.log
+secrets/
+keys/
